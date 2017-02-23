@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>statusBar</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>0</integer>
+		<key>width</key>
+		<integer>750</integer>
+		<key>height</key>
+		<integer>40</integer>
+	</dict>
+	<key>pageControl</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>1112</integer>
+		<key>width</key>
+		<string>750</string>
+		<key>height</key>
+		<string>30</string>
+	</dict>
+	<key>dock</key>
+	<dict>
+		<key>x</key>
+		<integer>0</integer>
+		<key>y</key>
+		<integer>1142</integer>
+		<key>width</key>
+		<integer>750</integer>
+		<key>height</key>
+		<integer>192</integer>
+	</dict>
+</dict>
+</plist>
